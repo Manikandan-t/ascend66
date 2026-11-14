@@ -2,7 +2,7 @@
   "appId": "app.ascend66.habits",
   "appName": "Ascend 66",
   "webDir": "www",
-  "backgroundColor": "#07080f",
+  "backgroundColor": "#1c1c1c",
   "android": { "allowMixedContent": false },
-  "plugins": { "LocalNotifications": { "smallIcon": "ic_stat_icon_config_sample", "iconColor": "#7b5cff" } }
+  "plugins": { "LocalNotifications": { "smallIcon": "ic_stat_icon_config_sample", "iconColor": "#ff6a00" } }
 }

@@ -21,4 +21,4 @@ APK: `android/app/build/outputs/apk/debug/app-debug.apk`
 Host the `www/` folder anywhere on HTTPS (e.g. GitHub Pages), open it in Chrome on Android and choose **Add to Home screen**. It works offline. Reminders need the APK.
 
 ## Credits
-Icons: game-icons.net (CC BY 3.0 - see the authors there). Font: Inter (OFL). App icon and all other art are original.
+Icons: Phosphor Icons (MIT). Font: Outfit (OFL). App icon and all other art are original.
