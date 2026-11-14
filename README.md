@@ -2,7 +2,11 @@
 
 A free, offline, gamified 66-day habit quest app. No account, no sync, no ads, no subscription. All data stays on the phone.
 
-Features: 66-day program with personalised onboarding, daily quests with logged amounts, XP / levels / ranks, five attributes (Strength, Wisdom, Confidence, Discipline, Focus), dungeons, loot + coins + shop (streak freeze), Hard Mode with penalties, motivation cards, 56 achievements, and 7 mini tools (focus timer, meditation, screen blocker, workout tracker, calorie tracker, book summary, journal). Daily and per-quest reminders in the Android app.
+Features: 66-day program with personalised onboarding, daily quests with logged amounts, XP / levels / ranks, five attributes (Strength, Wisdom, Confidence, Discipline, Focus), dungeons, loot + coins + shop (streak freeze), Hard Mode with penalties, motivation cards, 56 achievements, and 7 mini tools (focus timer, meditation, screen blocker, workout tracker, calorie tracker, book summary, journal). Android extras: home-screen widget (Day X/66, streak, tasks done), smart reminders (morning summary, 9pm "streak at risk" only if tasks are left, per-task times), timers that finish with a notification even when the screen is off, back-button navigation, haptics.
+
+Data: stored on the phone (Capacitor Preferences + photos as files). Export a backup file (with photos) from Settings and import it on another phone.
+
+Also: weekly +10% ramp for number targets, edit yesterday's ticks until midnight, Journey timeline with mood/photos/journal, My Rating, and a shareable Day 66 recap image.
 
 ## Get the Android APK (easiest, no Android Studio)
 1. Create a new GitHub repo and push this folder to it (branch `main`).
